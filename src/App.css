@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  text-decoration: none;
+
+}
+.App:hover{
+  text-decoration: underline;
+}
